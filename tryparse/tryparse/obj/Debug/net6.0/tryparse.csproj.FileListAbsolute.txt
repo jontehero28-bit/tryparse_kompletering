@@ -1,0 +1,15 @@
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\bin\Debug\net6.0\tryparse.exe
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\bin\Debug\net6.0\tryparse.deps.json
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\bin\Debug\net6.0\tryparse.runtimeconfig.json
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\bin\Debug\net6.0\tryparse.dll
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\bin\Debug\net6.0\tryparse.pdb
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\obj\Debug\net6.0\tryparse.csproj.AssemblyReference.cache
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\obj\Debug\net6.0\tryparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\obj\Debug\net6.0\tryparse.AssemblyInfoInputs.cache
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\obj\Debug\net6.0\tryparse.AssemblyInfo.cs
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\obj\Debug\net6.0\tryparse.csproj.CoreCompileInputs.cache
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\obj\Debug\net6.0\tryparse.dll
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\obj\Debug\net6.0\refint\tryparse.dll
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\obj\Debug\net6.0\tryparse.pdb
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\obj\Debug\net6.0\tryparse.genruntimeconfig.cache
+C:\programmeringcs\tryparse_kompletering\tryparse\tryparse\obj\Debug\net6.0\ref\tryparse.dll
