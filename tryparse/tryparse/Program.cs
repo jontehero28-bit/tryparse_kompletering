@@ -4,7 +4,7 @@ string answer = "18";
 int results;
 
 
-Console.WriteLine("How old is Yuriy? In numbers plz:) \n Birthday 2005/04/08");
+Console.WriteLine("How old is Yuriy? In numbers plz:) \nBirthday 2005/04/08");
 
 
 while (correct == false)
@@ -17,6 +17,14 @@ while (correct == false)
     Console.WriteLine("Wrong Answer, try again");
     
    }
+}
+bool IsEven(int value)
+{
+    if (value % 2 == 0)
+    {
+        return true;
+    }
+    return false;
 }
 
 Console.ReadLine();
